@@ -31,6 +31,7 @@ thead > tr th {
 }
 
 thead > tr th:first-child {
+   width:24%;
    background-color: rgb(121, 135, 172);
    border-top-left-radius: 10%;
 }
